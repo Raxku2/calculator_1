@@ -139,8 +139,8 @@ async_calculator.py
 ## 🧑‍💻 Author
 
 **Your Name**
-🌐 [GitHub](https://github.com/<your-username>) • ✉️ [your.email@example.com](mailto:your.email@example.com)
-Made with ❤️ using Python & Rich ⚡
+🌐 [GitHub](https://github.com/raxku2) 
+Made with 🤖 using Python & Rich ⚡
 
 ---
 
