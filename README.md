@@ -110,8 +110,6 @@ async_calculator.py
 
 ## 🌈 Example Screenshot
 
-> *(Optional – add your screenshot in `/docs` folder)*
-
 ![Calculator Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R2aHYzYjM5MHFpMmJoemppZWpsZm9kbWxzMmd4M2pvN2x1dmJ5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif)
 
 ---
