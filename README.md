@@ -136,7 +136,7 @@ async_calculator.py
 
 ## 🧑‍💻 Author
 
-**Your Name**
+**Pinaka**
 🌐 [GitHub](https://github.com/raxku2) 
 Made with 🤖 using Python & Rich ⚡
 
